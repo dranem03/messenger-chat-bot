@@ -1,0 +1,5 @@
+flask
+speedtest-cli
+cachetools
+google-api-python-client
+json
